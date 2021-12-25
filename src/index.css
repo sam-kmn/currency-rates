@@ -2,4 +2,10 @@
 
 html body {
   font-family: "Poppins";
+  background-color: rgb(16, 16, 17);
+  color: white;
+}
+
+.navbar-brand {
+  letter-spacing: 2px;
 }
